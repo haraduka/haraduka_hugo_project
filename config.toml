@@ -164,15 +164,15 @@ defaultContentLanguageInSubdir = false
 #  url = "#posts"
 #  weight = 3
 
-[[menu.main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 4
+#[[menu.main]]
+#  name = "Projects"
+#  url = "#projects"
+#  weight = 4
 
 [[menu.main]]
-  name = "Teaching"
-  url = "#teaching"
-  weight = 5
+  name = "Others"
+  url = "#others"
+  weight = 4
 
 [[menu.main]]
   name = "CV"
