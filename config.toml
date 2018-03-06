@@ -26,7 +26,7 @@ defaultContentLanguageInSubdir = false
   organization_url = "http://www.jsk.t.u-tokyo.ac.jp/index.html"
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "Kawaharazuka@jsk.imi.i.u-tokyo.ac.jp"
+  email = "kawaharazuka@jsk.imi.i.u-tokyo.ac.jp"
   address = "Engineer Building. 2 Room 73B1, The University of Tokyo, Bunkyo-ku, Tokyo, 113-8656, Japan"
   #office_hours = "Monday 10:00 to 13:00 or email for appointment"
   phone = "+81 3 5841 7416"
@@ -127,7 +127,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:Kawaharazuka@jsk.imi.i.u-tokyo.ac.jp"
+    link = "mailto:kawaharazuka@jsk.imi.i.u-tokyo.ac.jp"
 
   #[[params.social]]
   #  icon = "twitter"
