@@ -1,5 +1,5 @@
 baseurl = "https://haraduka.github.io/"  # End your URL with a `/` trailing slash.
-canonifyurls
+canonifyurls = true
 title = "Kento Kawaharazuka"
 copyright = "&copy; 2017 Kento Kawaharazuka"
 theme = "academic"
