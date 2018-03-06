@@ -1,31 +1,29 @@
 +++
-abstract = "We present a mobile visual clothing search system whereby a smart phone user can either choose a social networking photo or take a new photo of a person wearing clothing of interest and search for similar clothing in a retail database. From the query image, the person is detected, clothing is segmented, and clothing features are extracted and quantized. The information is sent from the phone client to a server, where the feature vector of the query image is used to retrieve similar clothing products from online databases. The phone's GPS location is used to re-rank results by retail store location. State of the art work focuses primarily on the recognition of a diverse range of clothing offline and pays little attention to practical applications. Evaluated on a challenging dataset, the system is relatively fast and achieves promising results."
+abstract = "The human forearm is composed of two long, thin bones called the radius and the ulna, and rotates using two axle joints. We aimed to develop a forearm based on the body proportion, weight ratio, muscle arrangement, and joint performance of the human body in order to bring out its benefits. For this, we need to miniaturize the muscle modules. To approach this task, we arranged two muscle motors inside one muscle module, and used the space effectively by utilizing common parts. In addition, we enabled the muscle module to also be used as the bone structure. Moreover, we used miniature motors and developed a way to dissipate the motor heat to the bone structure. Through these approaches, we succeeded in developing a forearm with a radioulnar joint based on the body proportion, weight ratio, muscle arrangement, and joint performance of the human body, while keeping maintainability and reliability. Also, we performed some motions such as soldering, opening a book, and badminton swinging using the benefits of the radioulnar structure, which have not been discussed before, and verified that Kengoro can realize skillful motions using the radioulnar joint like a human."
 abstract_short = ""
-authors = ["Kento Kawaharazuka", "Shogo Makino", "Masaya Kawamura", "Yuki Asano", "Kei Okada", "Masayuki Inaba"]
-date = "2017-07-01"
+authors = ["<u>Kento Kawaharazuka</u>", "Shogo Makino", "Masaya Kawamura", "Yuki Asano", "Kei Okada", "Masayuki Inaba"]
+date = "2017-05-11"
 image_preview = ""
 math = true
 publication_types = ["1"]
-publication = "In *International Conference on Multimedia and Expo Workshops (ICMEW)*, IEEE."
-publication_short = "In *ICMEW*"
+publication = "in *2017 JSME Conference on Robotics and Mechatronics (ROBOMECH2017)*, 1A1-O11"
+publication_short = ""
 selected = true
-title = "Mobile visual clothing search"
-url_code = "#"
-url_dataset = "#"
-url_pdf = "http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf"
-url_project = "project/deep-learning/"
-url_slides = "#"
-url_video = "#"
+title = "擬似球関節モジュールにより冗長な非線形弾性要素を制御可能な筋骨格ヒューマノイドの上肢設計"
+url_code = ""
+url_dataset = ""
+url_pdf = "https://www.jstage.jst.go.jp/article/jsmermd/2017/0/2017_1A1-O11/_article/-char/ja/"
+url_project = ""
+url_slides = ""
+url_video = ""
 
-[[url_custom]]
-name = "Custom Link"
-url = "http://www.example.org"
+#[[url_custom]]
+#name = "Custom Link"
+#url = "http://www.example.org"
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "headers/bubbles-wide.jpg"
-caption = "My caption :smile:"
+image = ""
+caption = ""
 
 +++
-
-More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.

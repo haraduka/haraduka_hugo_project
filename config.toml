@@ -1,4 +1,5 @@
 baseurl = "https://haraduka.github.io/"  # End your URL with a `/` trailing slash.
+canonifyurls
 title = "Kento Kawaharazuka"
 copyright = "&copy; 2017 Kento Kawaharazuka"
 theme = "academic"
@@ -99,7 +100,7 @@ defaultContentLanguageInSubdir = false
     'Uncategorized',  # 0
     'Conference proceedings',  # 1
     'Journal',  # 2
-    'Work in progress',  # 3
+    'Under review',  # 3
     'Technical report',  # 4
     'Book',  # 5
     'Book chapter'  # 6
@@ -156,7 +157,7 @@ defaultContentLanguageInSubdir = false
 
 [[menu.main]]
   name = "Publications"
-  url = "#publications_selected"
+  url = "#publications"
   weight = 2
 
 #[[menu.main]]
