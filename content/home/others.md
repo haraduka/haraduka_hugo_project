@@ -17,7 +17,7 @@ weight = 40
 ### Awards (Publication)
 - <u>Kento Kawaharazuka</u>, Shogo Makino, Masaya Kawamura, Yuki Asano, Kei Okada, Masayuki Inaba, *IEEE Robotics and Automation Society Japan Joint Chapter Young Award (2017)*
 
-### Awards and Experience (Others)
+### Awards and Experiences (Others)
 - Oral Presentation Award (Second Prize), [Deep Learning Day 2018](http://deeplearning.jp/deeplearningday2018/), 20, January, 2018
 - Code Thanks Festival 2017, 2, December, 2017
 - Jaxa Award (Second Prize), [Moon Hack Hackathon 2017](http://moonhack.jp.klab.com/), 11-12, November, 2017
