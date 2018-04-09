@@ -22,6 +22,7 @@ weight = 40
 - Code Thanks Festival 2017, 2, December, 2017
 - Jaxa Award (Second Prize), [Moon Hack Hackathon 2017](http://moonhack.jp.klab.com/), 11-12, November, 2017
 - Final Round of Code Festival 2016, 26-27, November, 2016
+- 2nd RUNNER-UP and ABU ROBOCON AWARD, [ABU Robot Contest 2016](http://aburobocon.net/), Clean Energy Recharging the World, 21, August, 2016
 - First Prize [NHK Student Robot Contest 2016](http://www.official-robocon.com/gakusei/about/history/twentyfive/), Clean Energy Recharging the World, 10, July, 2016
 - Outstanding Performance Award, Internship at [Works Applications Co., Ltd.](http://www.worksap.com/) 4-31, March, 2016
 - Internship at [Future Standard Co., Ltd.](http://www.futurestandard.co.jp/about/), January-April, 2016
@@ -33,3 +34,4 @@ weight = 40
 - Dowango Award (11/372), [ICPC Domestic Preliminary Contest](https://icpc.iisf.or.jp/2015-tsukuba/domestic/?lang=en), 26, Jun, 2015
 - Final Round of [SamurAI Coding 2014-2015](http://www.ipsj.or.jp/event/samuraicoding/2014-15/index.html), 18, March, 2015
 - Final Round of CODE RUNNER 2014, 30, November, 2014
+- Technical Award, [Freshman's Robot Contest 2013 (F^3RC)](http://f3rcontest.web.fc2.com/index.html), 29, September, 2013
