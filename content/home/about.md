@@ -14,6 +14,7 @@ weight = 1
   interests = [
     "Humanoid",
     "Biomimetics",
+    "Artificial Intelligence",
     "Tendon-driven"
   ]
 
@@ -31,4 +32,4 @@ weight = 1
 
 # Biography
 
-Kento Kawaharazuka is a first year Master's student in JSK Robotics Laboratory at the University of Tokyo. His research interests are mainly in humanoids, including biomimetics, tendon-driven robots, and artificial intelligence. He designs tendon-driven humanoids and develops control systems to move them.
+Kento Kawaharazuka is a second year Master's student in JSK Robotics Laboratory at the University of Tokyo. His research interests are mainly in humanoids, including biomimetics, tendon-driven robots, and artificial intelligence. He designs tendon-driven humanoids and develops control systems to move them.
